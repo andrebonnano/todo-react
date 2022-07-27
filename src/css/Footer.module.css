@@ -1,9 +1,14 @@
-p {
+footer p {
   display: flex;
   background-color: lightgrey;
   padding: 2em;
   align-items: center;
   justify-content: center;
+  font-size: 0.8em;
+}
+footer p span {
+  color: #179676;
+  font-weight: bold;
 }
 
 /*# sourceMappingURL=Footer.module.css.map */

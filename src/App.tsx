@@ -8,7 +8,16 @@ function App() {
   return (
     <div>
       <Header></Header>
-      <main className={styles.main}><h1>Conteúdo...</h1></main>
+      <main className={styles.main}>
+        <div>
+          <h2>O que você vai fazer?</h2>
+          <p>Formulário</p>
+        </div>
+        <div>
+          <h2>Suas Tarefas</h2>
+          <p>lista</p>
+        </div>
+      </main>
       <Footer></Footer>
     </div>
   );
