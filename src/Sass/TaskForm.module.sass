@@ -1,0 +1,46 @@
+.container
+    display: flex
+    flex-direction: column
+    margin: 0 auto 30px auto
+    max-width: 420px
+    padding: 20px
+    border: 1px solid #cecece
+    background-color: #ececec
+    border-radius: 20px
+    box-shadow: 5px 5px 6px #00000020
+
+    form
+        max-width: 400px
+        margin: 10px 10px 0px 10px
+        text-align: left
+
+        label
+            font-size: .8em
+            padding-left: 5px
+
+        input
+            width: 375px
+            padding: 10px 10px
+            margin-bottom: 1.5em
+            border-radius: 20px
+            border: 1px solid #cecece
+
+            &:focus
+                outline: 0
+                border-color: #61dafb
+
+        ::placeholder
+            color: #cecece
+
+        [type="submit"]
+            width: 100%
+            background-color: #61dafb
+            border: 1px solid #61dafb
+            margin-bottom: .5em
+            color: #1c3f49
+            transition: .3s
+            cursor: pointer
+
+            &:hover
+                background-color: #1c3f49
+                color: #61dafb
