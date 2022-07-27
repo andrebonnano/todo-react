@@ -1,0 +1,9 @@
+p {
+  display: flex;
+  background-color: lightgrey;
+  padding: 2em;
+  align-items: center;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=Footer.module.css.map */
