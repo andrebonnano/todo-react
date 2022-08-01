@@ -1,5 +1,7 @@
-#Visualização do projeto
-Para visualizar este projeto rodando [clique aqui](https://andrebonnano.github.io/todo-react/build/)
+
+## Para visualizar este projeto rodando [clique aqui](https://andrebonnano.github.io/todo-react/build/)
+
+-------------------------------------------
 
 # Getting Started with Create React App
 
